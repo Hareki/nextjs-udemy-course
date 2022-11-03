@@ -15,7 +15,7 @@ const Hero = (props) => {
       <h1>Hi, I&apos;m Max</h1>
       <p>
         I blog about web development - especially fronted frameworks
-        like Angular or React.
+        like Angular or React!!
       </p>
     </section>
   );
